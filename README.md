@@ -1,5 +1,10 @@
 # React + Vite
 
+•	Developed back-end system with Node.js, facilitating data management
+•	Handle CRUD operations for user management this involved creating RESTful APIs
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
