@@ -1,5 +1,5 @@
-# React + Vite  Weather Application
-
+# Weather Application
+React + Vite 
 •	Developed back-end system with Node.js, facilitating data management </br>
 •	Handle CRUD operations for user management this involved creating RESTful APIs
 
